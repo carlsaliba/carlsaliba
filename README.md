@@ -28,7 +28,7 @@ Here are some of the key projects featured in this repository:
 - 🔁 **Reinforcement Learning Algorithms**  
   Implementations of classic RL techniques like Q-learning and SARSA, applied to toy problems and simulations.
 
-- 📊 **Stock Price Classification**  
+- 📊 **Stock Classification**  
   Time-series forecasting and classification using **LSTM** and **XGBoost** models.
 
 - 🧬 **COVID-19 Spread Prediction**  
