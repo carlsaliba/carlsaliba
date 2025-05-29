@@ -23,7 +23,7 @@ I have professional experience working as:
 Here are some of the key projects featured in this repository:
 
 - 🎨 **Mandelbrot Set Visualization**  
-  A Python project to generate and visualize the Mandelbrot set using NumPy and Matplotlib.
+  A Python package to generate and visualize the Mandelbrot set .
 
 - 🔁 **Reinforcement Learning Algorithms**  
   Implementations of classic RL techniques like Q-learning and SARSA, applied to toy problems and simulations.
@@ -35,7 +35,7 @@ Here are some of the key projects featured in this repository:
   A mathematical modeling project using the **SIR model** to predict the progression of COVID-19 cases.
 
 - 🧠 **Graph Convolutional Networks (GCNs)**  
-  Exploring node classification and graph-based learning using PyTorch Geometric.
+  Exploring node classification and graph-based learning.
 
 - 🎲 **Game Theory Simulations**  
   Implementations of strategy optimization and equilibrium simulations in multi-agent environments.
