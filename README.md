@@ -6,7 +6,7 @@ I'm an AI Engineer with a strong passion for **Large Language Models (LLMs)** an
 
 I have professional experience working as:
 - A **Data Scientist at OCTOPIZE**, where I built pipelines and applied ML to analyze anonymized data.
-- An **AI Engineer at COVEA*, focusing on training and evaluating LLMs across a variety of enterprise projects.
+- An **AI Engineer at COVEA**, focusing on training and evaluating LLMs across a variety of enterprise projects.
 
 ## 🧠 Core Interests
 
